@@ -1,2 +1,2 @@
 # main
-This is an optional learning way.
+This website was made for fun. This is an alternative way of learning about Game Errors and Software Usage
